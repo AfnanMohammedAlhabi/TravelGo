@@ -11,6 +11,21 @@
 		44D55E3B290A774900C49CFB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44D55E3A290A774900C49CFB /* ContentView.swift */; };
 		44D55E3D290A774A00C49CFB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 44D55E3C290A774A00C49CFB /* Assets.xcassets */; };
 		44D55E40290A774A00C49CFB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 44D55E3F290A774A00C49CFB /* Preview Assets.xcassets */; };
+		44D55E47290A77D100C49CFB /* Splash.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44D55E46290A77D100C49CFB /* Splash.swift */; };
+		44D55E49290A77F600C49CFB /* OnBoard 1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44D55E48290A77F600C49CFB /* OnBoard 1.swift */; };
+		44D55E4B290A785F00C49CFB /* OnBoard 2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44D55E4A290A785F00C49CFB /* OnBoard 2.swift */; };
+		44D55E4D290A78AE00C49CFB /* OnBoard 3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44D55E4C290A78AE00C49CFB /* OnBoard 3.swift */; };
+		44D55E4F290A790300C49CFB /* SignIn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44D55E4E290A790300C49CFB /* SignIn.swift */; };
+		44D55E51290A792500C49CFB /* RecoverPass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44D55E50290A792500C49CFB /* RecoverPass.swift */; };
+		44D55E53290A793800C49CFB /* SignUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44D55E52290A793800C49CFB /* SignUp.swift */; };
+		44D55E55290A795100C49CFB /* MyProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44D55E54290A795100C49CFB /* MyProfile.swift */; };
+		44D55E57290A795E00C49CFB /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44D55E56290A795E00C49CFB /* Home.swift */; };
+		44D55E59290A796F00C49CFB /* ViewLocal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44D55E58290A796F00C49CFB /* ViewLocal.swift */; };
+		44D55E5B290A798400C49CFB /* ViewPlace.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44D55E5A290A798400C49CFB /* ViewPlace.swift */; };
+		44D55E5D290A799100C49CFB /* ViewTip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44D55E5C290A799100C49CFB /* ViewTip.swift */; };
+		44D55E5F290A79A300C49CFB /* Setting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44D55E5E290A79A300C49CFB /* Setting.swift */; };
+		44D55E61290A79AE00C49CFB /* Chat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44D55E60290A79AE00C49CFB /* Chat.swift */; };
+		44D55E63290A79C100C49CFB /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44D55E62290A79C100C49CFB /* Message.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +34,21 @@
 		44D55E3A290A774900C49CFB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		44D55E3C290A774A00C49CFB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		44D55E3F290A774A00C49CFB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		44D55E46290A77D100C49CFB /* Splash.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Splash.swift; sourceTree = "<group>"; };
+		44D55E48290A77F600C49CFB /* OnBoard 1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "OnBoard 1.swift"; sourceTree = "<group>"; };
+		44D55E4A290A785F00C49CFB /* OnBoard 2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "OnBoard 2.swift"; sourceTree = "<group>"; };
+		44D55E4C290A78AE00C49CFB /* OnBoard 3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "OnBoard 3.swift"; sourceTree = "<group>"; };
+		44D55E4E290A790300C49CFB /* SignIn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignIn.swift; sourceTree = "<group>"; };
+		44D55E50290A792500C49CFB /* RecoverPass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecoverPass.swift; sourceTree = "<group>"; };
+		44D55E52290A793800C49CFB /* SignUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUp.swift; sourceTree = "<group>"; };
+		44D55E54290A795100C49CFB /* MyProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyProfile.swift; sourceTree = "<group>"; };
+		44D55E56290A795E00C49CFB /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		44D55E58290A796F00C49CFB /* ViewLocal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewLocal.swift; sourceTree = "<group>"; };
+		44D55E5A290A798400C49CFB /* ViewPlace.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewPlace.swift; sourceTree = "<group>"; };
+		44D55E5C290A799100C49CFB /* ViewTip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewTip.swift; sourceTree = "<group>"; };
+		44D55E5E290A79A300C49CFB /* Setting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Setting.swift; sourceTree = "<group>"; };
+		44D55E60290A79AE00C49CFB /* Chat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chat.swift; sourceTree = "<group>"; };
+		44D55E62290A79C100C49CFB /* Message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +83,21 @@
 			children = (
 				44D55E38290A774900C49CFB /* TravelGoApp.swift */,
 				44D55E3A290A774900C49CFB /* ContentView.swift */,
+				44D55E46290A77D100C49CFB /* Splash.swift */,
+				44D55E48290A77F600C49CFB /* OnBoard 1.swift */,
+				44D55E4A290A785F00C49CFB /* OnBoard 2.swift */,
+				44D55E4C290A78AE00C49CFB /* OnBoard 3.swift */,
+				44D55E4E290A790300C49CFB /* SignIn.swift */,
+				44D55E50290A792500C49CFB /* RecoverPass.swift */,
+				44D55E52290A793800C49CFB /* SignUp.swift */,
+				44D55E54290A795100C49CFB /* MyProfile.swift */,
+				44D55E56290A795E00C49CFB /* Home.swift */,
+				44D55E58290A796F00C49CFB /* ViewLocal.swift */,
+				44D55E5A290A798400C49CFB /* ViewPlace.swift */,
+				44D55E5C290A799100C49CFB /* ViewTip.swift */,
+				44D55E5E290A79A300C49CFB /* Setting.swift */,
+				44D55E60290A79AE00C49CFB /* Chat.swift */,
+				44D55E62290A79C100C49CFB /* Message.swift */,
 				44D55E3C290A774A00C49CFB /* Assets.xcassets */,
 				44D55E3E290A774A00C49CFB /* Preview Content */,
 			);
@@ -137,7 +182,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				44D55E49290A77F600C49CFB /* OnBoard 1.swift in Sources */,
+				44D55E55290A795100C49CFB /* MyProfile.swift in Sources */,
+				44D55E51290A792500C49CFB /* RecoverPass.swift in Sources */,
+				44D55E63290A79C100C49CFB /* Message.swift in Sources */,
+				44D55E57290A795E00C49CFB /* Home.swift in Sources */,
 				44D55E3B290A774900C49CFB /* ContentView.swift in Sources */,
+				44D55E61290A79AE00C49CFB /* Chat.swift in Sources */,
+				44D55E5F290A79A300C49CFB /* Setting.swift in Sources */,
+				44D55E4B290A785F00C49CFB /* OnBoard 2.swift in Sources */,
+				44D55E47290A77D100C49CFB /* Splash.swift in Sources */,
+				44D55E4F290A790300C49CFB /* SignIn.swift in Sources */,
+				44D55E59290A796F00C49CFB /* ViewLocal.swift in Sources */,
+				44D55E5B290A798400C49CFB /* ViewPlace.swift in Sources */,
+				44D55E5D290A799100C49CFB /* ViewTip.swift in Sources */,
+				44D55E4D290A78AE00C49CFB /* OnBoard 3.swift in Sources */,
+				44D55E53290A793800C49CFB /* SignUp.swift in Sources */,
 				44D55E39290A774900C49CFB /* TravelGoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
