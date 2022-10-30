@@ -7,14 +7,44 @@
 
 import SwiftUI
 
-struct RecoverPass: View {
+struct reset: View {
+    @State private var email: String = ""
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        NavigationView{
+            
+            VStack (alignment: .leading) {
+                
+                Text("Enter your email address and we will send you a rest password link to your email index.")
+                    .padding(.top, -290.0)
+                
+                VStack (alignment: .leading) {
+                    Text("Your email address")
+                    TextField("Enter your email", text: $email)
+                        .padding(.trailing) // <1>, <2>
+                        .textFieldStyle(RoundedBorderTextFieldStyle())
+                }
+            }
+            .padding(.leading)
+            
+            
+            
+            
+            
+            
+            
+            
+            .navigationBarTitle(Text("Recover Password")
+               .font(.title))
+           .navigationBarTitleDisplayMode(.inline)
+        }
+        
+        
     }
 }
 
-struct RecoverPass_Previews: PreviewProvider {
+struct reset_Previews: PreviewProvider {
     static var previews: some View {
-        RecoverPass()
+        reset()
     }
 }
+
