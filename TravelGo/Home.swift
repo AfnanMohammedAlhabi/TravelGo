@@ -9,12 +9,24 @@ import SwiftUI
 
 struct Home: View {
     var body: some View {
-        Text("this is the new home ")
-    }
-}
-
-struct Home_Previews: PreviewProvider {
-    static var previews: some View {
-        Home()
-    }
-}
+        
+        VStack{
+            ScrollView(.horizontal, showsIndicators: false) {
+                HStack(spacing: 20) {
+                    ForEach(0..<10) {
+                        Text("Item \($0)")
+                            .foregroundColor(.white)
+                            .font(.largeTitle)
+                            .frame(width: 200, height: 200)
+                            .background(.red)
+                    }
+                    
+                }
+            }
+        }}
+    
+    struct Home_Previews: PreviewProvider {
+        static var previews: some View {
+            Home()
+        }
+    }}
