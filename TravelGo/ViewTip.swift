@@ -9,7 +9,13 @@ import SwiftUI
 
 struct ViewTip: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        TabView {
+          Home()
+                .badge(1)
+                .tabItem {
+                    Label("Home", systemImage: "house")
+                }
+        }
     }
 }
 

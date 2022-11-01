@@ -26,6 +26,9 @@
 		44D55E5F290A79A300C49CFB /* Setting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44D55E5E290A79A300C49CFB /* Setting.swift */; };
 		44D55E61290A79AE00C49CFB /* Chat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44D55E60290A79AE00C49CFB /* Chat.swift */; };
 		44D55E63290A79C100C49CFB /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44D55E62290A79C100C49CFB /* Message.swift */; };
+		8A219C422910FBEE00451097 /* CardView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A219C412910FBEE00451097 /* CardView1.swift */; };
+		8A219C442910FC2F00451097 /* CardView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A219C432910FC2F00451097 /* CardView2.swift */; };
+		8A219C462910FC3E00451097 /* CardView3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A219C452910FC3E00451097 /* CardView3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,6 +52,9 @@
 		44D55E5E290A79A300C49CFB /* Setting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Setting.swift; sourceTree = "<group>"; };
 		44D55E60290A79AE00C49CFB /* Chat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chat.swift; sourceTree = "<group>"; };
 		44D55E62290A79C100C49CFB /* Message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
+		8A219C412910FBEE00451097 /* CardView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView1.swift; sourceTree = "<group>"; };
+		8A219C432910FC2F00451097 /* CardView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView2.swift; sourceTree = "<group>"; };
+		8A219C452910FC3E00451097 /* CardView3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +100,9 @@
 				44D55E56290A795E00C49CFB /* Home.swift */,
 				44D55E58290A796F00C49CFB /* ViewLocal.swift */,
 				44D55E5A290A798400C49CFB /* ViewPlace.swift */,
+				8A219C412910FBEE00451097 /* CardView1.swift */,
+				8A219C432910FC2F00451097 /* CardView2.swift */,
+				8A219C452910FC3E00451097 /* CardView3.swift */,
 				44D55E5C290A799100C49CFB /* ViewTip.swift */,
 				44D55E5E290A79A300C49CFB /* Setting.swift */,
 				44D55E60290A79AE00C49CFB /* Chat.swift */,
@@ -190,9 +199,12 @@
 				44D55E3B290A774900C49CFB /* ContentView.swift in Sources */,
 				44D55E61290A79AE00C49CFB /* Chat.swift in Sources */,
 				44D55E5F290A79A300C49CFB /* Setting.swift in Sources */,
+				8A219C422910FBEE00451097 /* CardView1.swift in Sources */,
 				44D55E4B290A785F00C49CFB /* OnBoard 2.swift in Sources */,
+				8A219C462910FC3E00451097 /* CardView3.swift in Sources */,
 				44D55E47290A77D100C49CFB /* Splash.swift in Sources */,
 				44D55E4F290A790300C49CFB /* SignIn.swift in Sources */,
+				8A219C442910FC2F00451097 /* CardView2.swift in Sources */,
 				44D55E59290A796F00C49CFB /* ViewLocal.swift in Sources */,
 				44D55E5B290A798400C49CFB /* ViewPlace.swift in Sources */,
 				44D55E5D290A799100C49CFB /* ViewTip.swift in Sources */,
