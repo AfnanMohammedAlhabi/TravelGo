@@ -29,6 +29,7 @@
 		8A219C422910FBEE00451097 /* CardView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A219C412910FBEE00451097 /* CardView1.swift */; };
 		8A219C442910FC2F00451097 /* CardView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A219C432910FC2F00451097 /* CardView2.swift */; };
 		8A219C462910FC3E00451097 /* CardView3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A219C452910FC3E00451097 /* CardView3.swift */; };
+		8A219C482911028A00451097 /* Tabs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A219C472911028A00451097 /* Tabs.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -55,6 +56,7 @@
 		8A219C412910FBEE00451097 /* CardView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView1.swift; sourceTree = "<group>"; };
 		8A219C432910FC2F00451097 /* CardView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView2.swift; sourceTree = "<group>"; };
 		8A219C452910FC3E00451097 /* CardView3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView3.swift; sourceTree = "<group>"; };
+		8A219C472911028A00451097 /* Tabs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tabs.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				8A219C432910FC2F00451097 /* CardView2.swift */,
 				8A219C452910FC3E00451097 /* CardView3.swift */,
 				44D55E5C290A799100C49CFB /* ViewTip.swift */,
+				8A219C472911028A00451097 /* Tabs.swift */,
 				44D55E5E290A79A300C49CFB /* Setting.swift */,
 				44D55E60290A79AE00C49CFB /* Chat.swift */,
 				44D55E62290A79C100C49CFB /* Message.swift */,
@@ -205,6 +208,7 @@
 				44D55E47290A77D100C49CFB /* Splash.swift in Sources */,
 				44D55E4F290A790300C49CFB /* SignIn.swift in Sources */,
 				8A219C442910FC2F00451097 /* CardView2.swift in Sources */,
+				8A219C482911028A00451097 /* Tabs.swift in Sources */,
 				44D55E59290A796F00C49CFB /* ViewLocal.swift in Sources */,
 				44D55E5B290A798400C49CFB /* ViewPlace.swift in Sources */,
 				44D55E5D290A799100C49CFB /* ViewTip.swift in Sources */,
