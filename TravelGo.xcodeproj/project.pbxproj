@@ -30,6 +30,9 @@
 		8A219C442910FC2F00451097 /* CardView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A219C432910FC2F00451097 /* CardView2.swift */; };
 		8A219C462910FC3E00451097 /* CardView3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A219C452910FC3E00451097 /* CardView3.swift */; };
 		8A219C482911028A00451097 /* Tabs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A219C472911028A00451097 /* Tabs.swift */; };
+		B3EF2CF329110AB6002DB5F5 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3EF2CF229110AB6002DB5F5 /* OnboardingView.swift */; };
+		B3EF2CF529110AFA002DB5F5 /* OnboardingPageModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3EF2CF429110AFA002DB5F5 /* OnboardingPageModel.swift */; };
+		B3EF2CF729110B25002DB5F5 /* OnboardingPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3EF2CF629110B25002DB5F5 /* OnboardingPageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -57,6 +60,9 @@
 		8A219C432910FC2F00451097 /* CardView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView2.swift; sourceTree = "<group>"; };
 		8A219C452910FC3E00451097 /* CardView3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView3.swift; sourceTree = "<group>"; };
 		8A219C472911028A00451097 /* Tabs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tabs.swift; sourceTree = "<group>"; };
+		B3EF2CF229110AB6002DB5F5 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		B3EF2CF429110AFA002DB5F5 /* OnboardingPageModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingPageModel.swift; sourceTree = "<group>"; };
+		B3EF2CF629110B25002DB5F5 /* OnboardingPageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingPageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +118,9 @@
 				44D55E62290A79C100C49CFB /* Message.swift */,
 				44D55E3C290A774A00C49CFB /* Assets.xcassets */,
 				44D55E3E290A774A00C49CFB /* Preview Content */,
+				B3EF2CF229110AB6002DB5F5 /* OnboardingView.swift */,
+				B3EF2CF429110AFA002DB5F5 /* OnboardingPageModel.swift */,
+				B3EF2CF629110B25002DB5F5 /* OnboardingPageView.swift */,
 			);
 			path = TravelGo;
 			sourceTree = "<group>";
@@ -200,6 +209,8 @@
 				44D55E63290A79C100C49CFB /* Message.swift in Sources */,
 				44D55E57290A795E00C49CFB /* Home.swift in Sources */,
 				44D55E3B290A774900C49CFB /* ContentView.swift in Sources */,
+				B3EF2CF729110B25002DB5F5 /* OnboardingPageView.swift in Sources */,
+				B3EF2CF529110AFA002DB5F5 /* OnboardingPageModel.swift in Sources */,
 				44D55E61290A79AE00C49CFB /* Chat.swift in Sources */,
 				44D55E5F290A79A300C49CFB /* Setting.swift in Sources */,
 				8A219C422910FBEE00451097 /* CardView1.swift in Sources */,
@@ -215,6 +226,7 @@
 				44D55E4D290A78AE00C49CFB /* OnBoard 3.swift in Sources */,
 				44D55E53290A793800C49CFB /* SignUp.swift in Sources */,
 				44D55E39290A774900C49CFB /* TravelGoApp.swift in Sources */,
+				B3EF2CF329110AB6002DB5F5 /* OnboardingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
