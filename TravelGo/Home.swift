@@ -20,8 +20,9 @@ struct Home: View {
                                 .resizable()
                                 .frame(width: 50,height: 50)
                                 .cornerRadius(90)
-                                .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .trailing)
-                                       .listRowInsets(EdgeInsets())
+                                .frame(maxWidth: .infinity, maxHeight: 0, alignment: .trailing)
+                                .listRowInsets(EdgeInsets())
+                            
                             Text("Welcome To Riyadh")
                                 .font(.caption)
                                 .foregroundColor(.secondary)
@@ -31,6 +32,8 @@ struct Home: View {
                                 .font(.system(.largeTitle, design: .rounded))
                                 .fontWeight(.black)
                                 .foregroundColor(Color("1"))
+                               
+                                      // .listRowInsets(EdgeInsets())
                                // .frame(width: 20, height: 20, alignment: .center)
                             /*Image("john")
                                 .resizable()
