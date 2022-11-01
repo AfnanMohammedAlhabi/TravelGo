@@ -11,7 +11,7 @@ struct Tabs: View {
     var body: some View {
         TabView {
           Home()
-                .badge(1)
+                .badge("")
                 .tabItem {
                     Label("Home", systemImage: "house")
                 }
