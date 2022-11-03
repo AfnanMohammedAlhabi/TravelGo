@@ -28,6 +28,7 @@ struct MyProfile: View {
         GridItem(.flexible())
     ]
     var body: some View {
+        
         ScrollView {
             
             // use pading for each component
