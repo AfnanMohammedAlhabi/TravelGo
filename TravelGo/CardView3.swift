@@ -35,7 +35,7 @@ struct CardView3: View {
                     
                     
                     NavigationLink {
-                       ViewPlace()
+                       ViewTip()
                     } label: {
                         Text("view ")
                             .foregroundColor(Color("1"))
